@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Stack+Sans+Text&size=27&pause=1000&width=435&lines=LeetCode+solutions+and+patterns;Prepared+by+Nazmul)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Stack+Sans+Text&size=27&pause=1000&width=435&lines=Leetcode+Solutions+And+Patterns;Prepared+By+Nazmul)](https://git.io/typing-svg)
 
 This repository showcases my **LeetCode solutions**, focusing on **data structures** and **algorithms**.  
 It serves as a personal record of my problem-solving journey and continuous improvement in coding.
