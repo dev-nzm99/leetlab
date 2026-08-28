@@ -56,6 +56,7 @@ It serves as a personal record of my problem-solving journey and continuous impr
 | [0283-move-zeroes](https://github.com/dev-nzm99/leethub/tree/main/0283-move-zeroes/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/dev-nzm99/leethub/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0881-boats-to-save-people](https://github.com/dev-nzm99/leethub/tree/main/0881-boats-to-save-people/) | Medium |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/dev-nzm99/leethub/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
