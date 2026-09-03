@@ -57,6 +57,7 @@ It serves as a personal record of my problem-solving journey and continuous impr
 | [0485-max-consecutive-ones](https://github.com/dev-nzm99/leethub/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/dev-nzm99/leethub/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0881-boats-to-save-people](https://github.com/dev-nzm99/leethub/tree/main/0881-boats-to-save-people/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/dev-nzm99/leethub/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/dev-nzm99/leethub/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -110,12 +111,14 @@ It serves as a personal record of my problem-solving journey and continuous impr
 | [0003-longest-substring-without-repeating-characters](https://github.com/dev-nzm99/leethub/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0567-permutation-in-string](https://github.com/dev-nzm99/leethub/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/dev-nzm99/leethub/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/dev-nzm99/leethub/tree/main/0904-fruit-into-baskets/) | Medium |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/dev-nzm99/leethub/tree/main/2516-take-k-of-each-character-from-left-and-right/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dev-nzm99/leethub/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0567-permutation-in-string](https://github.com/dev-nzm99/leethub/tree/main/0567-permutation-in-string/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/dev-nzm99/leethub/tree/main/0904-fruit-into-baskets/) | Medium |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/dev-nzm99/leethub/tree/main/2516-take-k-of-each-character-from-left-and-right/) | Medium |
 ## String
 | Problem Name | Difficulty |
